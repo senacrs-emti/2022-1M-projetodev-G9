@@ -292,12 +292,30 @@
           <p>73</p>
           <h1>Ta</h1>
         </td>
-        <td class="c6"></td>
-        <td class="c7"></td>
-        <td class="c8"></td>
-        <td class="c9"></td>
-        <td class="c10"></td>
-        <td class="c11"></td>
+        <td class="c6 mt">
+          <p>74</p>
+          <h1>W</h1>
+        </td>
+        <td class="c7 mt" id="ajuste">
+          <p>75</p>
+          <h1>Re</h1>
+        </td>
+        <td class="c8 mt" id="ajuste">
+          <p>76</p>
+          <h1>Os</h1>
+        </td>
+        <td class="c9 mt" id="ajuste">
+          <p>77</p>
+          <h1>Ir</h1>
+        </td>
+        <td class="c10 mt" id="ajuste">
+          <p>78</p>
+          <h1>Pt</h1>
+        </td>
+        <td class="c11 mt" id="ajuste">
+          <p>79</p>
+          <h1>Au</h1>
+        </td>
         <td class="c12"></td>
         <td class="c13"></td>
         <td class="c14"></td>
