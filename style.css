@@ -19,47 +19,74 @@ header h1{
     font-size: 40px;
     box-shadow: black 5px 5px 5px 5px;
 }
-main{
+table{
+    margin: 15px;
     width: fit-content;
     height: fit-content;
     position: relative;
-    top: 185px;
-    left: 180px;
+    top: 105px;
+    left: 10px;
 }
-.linha{
-    margin: 10px;
+tr{
+    margin: 5px;
     display: flex;
     width: fit-content;
     height: auto;
 }
-.colum{
-    margin: 10px;
+td{
+    margin: 5px;
+    padding: 5px;
     border-radius: 5px;
-    height: 65px;
-    width: 65px;
+    min-height: 50px;
+    min-width: 50px;
+    width: auto;
 }
-.colum p{
+td p{
     position: relative;
-    top: 7px;
-    left: 7px;
+    top: 3px;
+    left: 1px;
 }
-.colum h1{
+td h1{
+    font-size: 30px;
     position: relative;
     top: 5%;
     left: 29%;
 }
-.c18{
-    margin: 0%;
+#he h1{
     position: relative;
-    left: 1000%;
+    left:16%;
+}
+#ajuste h1{
+    position: relative;
+    left: 18%;
 }
 .gn{
     background-color: #3d9ee3;
 }
-#hidrogenio{
+.nm{
     background-color: #a1d344;
 }
-#he{
-    position: relative;
-    left: 15%;
+.ma{
+    background-color: #f1b200;
+}
+.mat{
+    background-color:#eada00;   
+}
+.sm{
+    background-color: #4db6ac;
+}
+.h{
+    background-color:#70cbeb;
+}
+.om{
+    background-color:#a2c7d3;
+}
+.mt{
+    background-color:#eb8e8e;
+}
+.la{
+    background-color: #90e3e9;
+}
+.ac{
+    background-color:#dcadd6;
 }
