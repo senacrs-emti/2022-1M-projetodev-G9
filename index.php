@@ -316,9 +316,18 @@
           <p>79</p>
           <h1>Au</h1>
         </td>
-        <td class="c12"></td>
-        <td class="c13"></td>
-        <td class="c14"></td>
+        <td class="c12 mt" id="ajuste">
+          <p>80</p>
+          <h1>Hg</h1>
+        </td>
+        <td class="c13 om" id="ajuste">
+          <p>81</p>
+          <h1>Tl</h1>
+        </td>
+        <td class="c14 om" id="ajuste">
+          <p>82</p>
+          <h1>Pb</h1>
+        </td>
         <td class="c15"></td>
         <td class="c16"></td>
         <td class="c17"></td>
