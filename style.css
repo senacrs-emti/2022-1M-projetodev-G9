@@ -24,17 +24,16 @@ table{
     width: fit-content;
     height: fit-content;
     position: relative;
-    top: 105px;
-    left: 10px;
+    top: 2px;
+    left: 4%;
 }
 tr{
-    margin: 5px;
     display: flex;
     width: fit-content;
     height: auto;
 }
 td{
-    margin: 5px;
+    margin: 3px;
     padding: 5px;
     border-radius: 5px;
     min-height: 50px;
@@ -59,6 +58,10 @@ td h1{
 #ajuste h1{
     position: relative;
     left: 18%;
+}
+#ajuste2 h1{
+    position: relative;
+    left: 42%;
 }
 .gn{
     background-color: #3d9ee3;

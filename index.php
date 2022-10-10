@@ -227,6 +227,73 @@
           <p>43</p>
           <h1>Tc</h1>
         </td>
+        <td class="c8 mt" id="ajuste">
+          <p>44</p>
+          <h1>Ru</h1>
+        </td>
+        <td class="c9 mt" id="ajuste">
+          <p>45</p>
+          <h1>Rh</h1>
+        </td>
+        <td class="c10 mt" id="ajuste">
+          <p>46</p>
+          <h1>Pd</h1>
+        </td>
+        <td class="c11 mt" id="ajuste">
+          <p>47</p>
+          <h1>Ag</h1>
+        </td>
+        <td class="c12 mt" id="ajuste">
+          <p>48</p>
+          <h1>Cd</h1>
+        </td>
+        <td class="c13 om" id="ajuste">
+          <p>49</p>
+          <h1>In</h1>
+        </td>
+        <td class="c14 om" id="ajuste">
+          <p>50</p>
+          <h1>Sn</h1>
+        </td>
+        <td class="c15 sm" id="ajuste">
+          <p>51</p>
+          <h1>Sb</h1>
+        </td>
+        <td class="c16 sm" id="ajuste">
+          <p>52</p>
+          <h1>Te</h1>
+        </td>
+        <td class="c17 h" id="ajuste2">
+          <p>53</p>
+          <h1>I</h1>
+        </td>
+        <td class="c18 gn" id="ajuste">
+          <p>54</p>
+          <h1>Xe</h1>
+        </td>
+      </tr>
+      <tr class="l3">
+        <td class="c1 ma" id="ajuste">
+          <p>55</p>
+          <h1>Cs</h1>
+        </td>
+        <td class="c2 mat" id="ajuste">
+          <p>56</p>
+          <h1>Ba</h1>
+        </td>
+        <td class="c3">
+          <p>57-71</p>
+        </td>
+        <td class="c4 mt" id="ajuste">
+          <p>72</p>
+          <h1>Hf</h1>
+        </td>
+        <td class="c5 mt" id="ajuste">
+          <p>73</p>
+          <h1>Ta</h1>
+        </td>
+        <td class="c6"></td>
+        <td class="c7"></td>
         <td class="c8"></td>
         <td class="c9"></td>
         <td class="c10"></td>
