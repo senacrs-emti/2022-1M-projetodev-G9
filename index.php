@@ -217,10 +217,16 @@
         </td>
         <td class="c5 mt" id="ajuste">
           <p>41</p>
-          <h1></h1>
+          <h1>Nb</h1>
         </td>
-        <td class="c6"></td>
-        <td class="c7"></td>
+        <td class="c6 mt" id="ajuste">
+          <p>42</p>
+          <h1>Mo</h1>
+        </td>
+        <td class="c7 mt" id="ajuste">
+          <p>43</p>
+          <h1>Tc</h1>
+        </td>
         <td class="c8"></td>
         <td class="c9"></td>
         <td class="c10"></td>
