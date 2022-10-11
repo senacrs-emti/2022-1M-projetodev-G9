@@ -7,6 +7,41 @@ body{
     padding: 15px;
     font-family: Open Sans,Geneva,sans-serif;
 }
+body:first-of-type div{
+    padding: 5px;
+    position: absolute;
+    top: 16%;
+    left: 176px;
+    width: 645px;
+    height: 198px;
+    background-color: darkgrey;
+    border-radius: 3px;
+    display: none;
+}
+div section{
+    border-radius: 5px;
+    padding: 5px;
+    text-align: left;
+    min-height: 40px;
+    width: 634px;
+    background-color: grey;
+    margin-bottom: 10px;
+}
+div section span{
+    font-size: 25px;
+}
+div p{
+    font-size: 20px;
+}
+section{
+    padding: 5px;
+    position: absolute;
+    top: 16%;
+    left: 176px;
+    width: 645px;
+    height: 198px;
+    border-radius: 3px;
+}
 header{
     position: relative;
     left: 30%;
@@ -28,7 +63,7 @@ img{
 }
 #img1{
     position: absolute;
-    top: 58%;
+    top: 59%;
     left: 10%;
     width: 55px;
     height: 165px;
@@ -38,7 +73,7 @@ table{
     width: fit-content;
     height: fit-content;
     position: relative;
-    top: 2px;
+    top: -17px;
     left: 10px;
 }
 tr{
