@@ -19,6 +19,20 @@ header h1{
     font-size: 40px;
     box-shadow: black 5px 5px 5px 5px;
 }
+img{
+    position: absolute;
+    top: 50%;
+    left: 11%;
+    width: 60px;
+    height: 185px;
+}
+#img1{
+    position: absolute;
+    top: 58%;
+    left: 10%;
+    width: 55px;
+    height: 165px;
+}
 table{
     margin: 15px;
     width: fit-content;
@@ -31,6 +45,9 @@ tr{
     display: flex;
     width: fit-content;
     height: auto;
+}
+.l7{
+    margin-top: 20px;
 }
 td{
     margin: 3px;
@@ -50,6 +67,9 @@ td h1{
     position: relative;
     top: 5%;
     left: 29%;
+}
+.p{
+    font-size: 13px;
 }
 #he h1{
     position: relative;
