@@ -54,27 +54,13 @@ header h1{
     font-size: 40px;
     box-shadow: black 5px 5px 5px 5px;
 }
-img{
-    position: absolute;
-    top: 50%;
-    left: 11%;
-    width: 60px;
-    height: 185px;
-}
-#img1{
-    position: absolute;
-    top: 59%;
-    left: 10%;
-    width: 55px;
-    height: 165px;
-}
 table{
     margin: 15px;
     width: fit-content;
     height: fit-content;
     position: relative;
-    top: -17px;
-    left: 10px;
+    top: 115px;
+    left: 110px;
 }
 tr{
     display: flex;
@@ -85,8 +71,8 @@ tr{
     margin-top: 20px;
 }
 td{
-    margin: 3px;
-    padding: 5px;
+    margin: 2px;
+    padding: 3px;
     border-radius: 5px;
     min-height: 50px;
     min-width: 50px;
