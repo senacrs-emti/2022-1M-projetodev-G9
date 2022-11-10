@@ -7,32 +7,6 @@ body{
     padding: 15px;
     font-family: Open Sans,Geneva,sans-serif;
 }
-body:first-of-type div{
-    padding: 5px;
-    position: absolute;
-    top: 16%;
-    left: 176px;
-    width: 645px;
-    height: 198px;
-    background-color: darkgrey;
-    border-radius: 3px;
-    display: none;
-}
-div section{
-    border-radius: 5px;
-    padding: 5px;
-    text-align: left;
-    min-height: 40px;
-    width: 634px;
-    background-color: grey;
-    margin-bottom: 10px;
-}
-div section span{
-    font-size: 25px;
-}
-div p{
-    font-size: 20px;
-}
 section{
     padding: 5px;
     position: absolute;
@@ -53,6 +27,31 @@ header{
 header h1{
     font-size: 40px;
     box-shadow: black 5px 5px 5px 5px;
+}
+header a{
+    position: relative;
+    top: 15%;
+}
+header a:hover{
+    text-decoration: underline;
+    color: purple;
+}
+header p{
+    margin-top: 10px;
+    display: none;
+}
+header p:hover{
+    color: purple;
+    text-decoration: underline;
+}
+body div:first-of-type{
+    position: absolute;
+    top: 32%;
+    left: 21%;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 590px;
+    height: 210px;
 }
 table{
     margin: 15px;
